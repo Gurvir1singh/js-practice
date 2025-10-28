@@ -7,25 +7,23 @@
     <title>negetive and positive or zero values find out</title>
 </head>
 <body>
-<center><h2>  1.Write a program to check whether a number is positive, negative, or zero.</h2></center>
+<center><h2>  2.Ask the user for two numbers and print the larger one.</h2></center>
 
 
 <script>
-    let num = Number(prompt("write a number to check the negetive or positive and zero "))
-    if(isNaN(num)){
+    let num1 = Number(prompt("Give first number to check the who is larger one"))
+    let num2 = Number(prompt("Give first number to check the who is larger one"))
+
+    if(isNaN(num1 && num2)){
     console.log("invalid value");
     
     }
-    else if(num<0){
-        console.log("your number is negetive");
-        
-    }
-    else if(num ==0){
-        console.log("your number is the zero");
+    else if(num1>num2){
+        console.log("first number is larger one");
         
     }
     else{
-        console.log("your number is the positive ");
+        console.log("second number is larger one");
         
     }
     

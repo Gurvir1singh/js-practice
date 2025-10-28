@@ -1,9 +1,6 @@
 
 # 🟢 Level 1 – Basics (Concepts & Syntax)
 #         1.Write a program to check whether a number is positive, negative, or zero.
-
-
-
 #         2.Ask the user for two numbers and print the larger one.
 #         3.Take a number as input and check if it’s divisible by both 3 and 5.
 #         4.Create a program to print the first 10 natural numbers using a loop.
