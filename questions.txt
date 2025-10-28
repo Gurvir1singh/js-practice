@@ -1,0 +1,28 @@
+
+# 🟢 Level 1 – Basics (Concepts & Syntax)
+#         1.Write a program to check whether a number is positive, negative, or zero.
+
+
+
+#         2.Ask the user for two numbers and print the larger one.
+#         3.Take a number as input and check if it’s divisible by both 3 and 5.
+#         4.Create a program to print the first 10 natural numbers using a loop.
+#         5.Write a program to find the factorial of a number entered by the user.
+# 🟡 Level 2 – Arrays & Loops
+#         1. Create an array of numbers and print only the even numbers from it.
+#         2. Find the maximum and minimum number in an array without using built-in functions.
+#         3. Write a program that reverses the elements of an array.
+#         4. Count how many times a particular number appears in an array.
+#         5. Write a program that adds all numbers in an array and prints the average.
+# 🟠 Level 3 – Strings & Conditions
+#         1. Write a program to count the number of vowels and consonants in a string.
+#         2. Check if a given string is a palindrome (same forward and backward).
+#         3. Replace all spaces in a string with - (hyphens).
+#         4. Take a string and print it with the first letter of each word capitalized.
+#         5. Check if a given string contains the word "JavaScript".
+# 🔵 Level 4 – Functions & Logic
+#         1. Create a function findLargest(a, b, c) that returns the largest of three numbers.
+#         2. Write a function that accepts a number and returns true if it’s a prime number, otherwise false.
+#         3. Make a function that takes an array of numbers and returns a new array containing only unique elements.
+#         4. Write a function that returns the sum of all digits in a given number.
+#         5. Create a function reverseWords(str) that reverses the order of words in a sentence.
